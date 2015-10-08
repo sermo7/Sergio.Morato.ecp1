@@ -23,6 +23,6 @@ public class C11Test {
     
     @Test
     public void m2Test(){
-        assertEquals("m1", c11.m2());  
+        assertEquals("m2", c11.m2());  
     }
 }
